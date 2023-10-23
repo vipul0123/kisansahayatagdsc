@@ -87,7 +87,12 @@ class _ChatGPTScreenState extends State<ChatGPTScreen> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Color(0xff2c10da),
-        title: Text('PlantdoctorGPT'
+        title: Text('PlantdoctorGPT',
+          style: TextStyle(
+            fontWeight: FontWeight.bold,
+
+          color: Colors.purple,
+        ),
         ),
         flexibleSpace: Container(
           decoration: BoxDecoration(
