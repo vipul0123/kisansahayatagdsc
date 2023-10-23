@@ -91,7 +91,7 @@ class _ChatGPTScreenState extends State<ChatGPTScreen> {
           style: TextStyle(
             fontWeight: FontWeight.bold,
 
-          color: Colors.purple,
+          color: Color(0xff0b461a),
         ),
         ),
         flexibleSpace: Container(
