@@ -19,7 +19,7 @@ class _WeatherPageState extends State<WeatherPage> {
         backgroundColor: Color(0xffd90bcc),
         title: Text('Weather',
         style: TextStyle(
-          color: Colors.blue,
+          color: Colors.green,
         ),),
       ),
       body: Center(
